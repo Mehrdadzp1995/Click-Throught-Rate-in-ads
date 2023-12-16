@@ -6,16 +6,16 @@ This project aims to develop a sophisticated machine learning algorithm for a ma
 ## Problem Statement
 The crux of this project is to accurately predict whether a user will click on a specific advertisement. This prediction is based on an analysis of 10 key variables:
 
--Daily Time Spent on Site
--Age
--Area Income
--Daily Internet Usage
--Ad Topic Line
--City
--Gender (Male)
--Country
--Timestamp
--Clicked on Ad
+    Daily Time Spent on Site
+    Age
+    Area Income
+    Daily Internet Usage
+    Ad Topic Line
+    City
+    Gender (Male)
+    Country
+    Timestamp
+    Clicked on Ad
 
 Our primary focus is the 'Clicked on Ad' variable, which takes two values: 0 (ad not clicked) and 1 (ad clicked). The challenge is to effectively use the remaining nine variables to predict this outcome.
 ## Objectives
