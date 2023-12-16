@@ -4,7 +4,7 @@
 This project aims to develop a sophisticated machine learning algorithm for a marketing agency, focusing on predicting user engagement with advertisements. Utilizing a dataset with rich features, we delve into the nuances of advertising data to not only make predictions but also uncover underlying patterns through detailed data analysis.
 
 ## Problem Statement
-The crux of this project is to accurately predict whether a user will click on a specific advertisement. This prediction is based on an analysis of 10 key variables:
+The main goal of this project is to figure out if a user will click on an ad. We'll do this by looking at 10 important features:
 
     Daily Time Spent on Site
     Age
